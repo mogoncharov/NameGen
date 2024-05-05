@@ -1,0 +1,63 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.m-0 {
+    background-color:rgb(175, 235, 243) ;
+    text-decoration: underline;
+}
+
+.card-header {
+    background-color:rgb(175, 235, 243) ;
+}
+
+.card-body {
+    background-color:rgb(252, 247, 233) ;
+}
+
+.btn-outline-primary {
+    background-color:rgb(139, 195, 233) ;
+    color:rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+div .card-body {
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(42, 41, 122);
+  }
+
+
+div .text-center {
+    border-width: 3px;
+    border-style:groove ;
+    border-color: rgb(19, 0, 0);
+    background-color:rgb(175, 235, 243) ;
+  }
+div .btn {
+    border-width: 2px;
+    border-style:double ;
+    border-color: rgb(0, 0, 0);
+  }
+
+#surnameOutput {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+#secondNameOutput {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+#firstNameOutput {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
